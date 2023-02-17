@@ -1,0 +1,34 @@
+<resources>
+    <string name="app_name">Quiz2</string>
+    <string name="arte">arte</string>
+    <string name="musica">musica</string>
+    <string name="storia">storia</string>
+    <string name="cinema">cinema</string>
+    <string name="videogiochi">videogiochi</string>
+    <string name="serie_tv">serie tv</string>
+    <string name="programmazione">programmazione</string>
+    <string name="inglese">inglese</string>
+    <string name="matematica">matematica</string>
+    <string name="difficile">difficoltà: difficile</string>
+    <string name="facile">difficoltà: facile</string>
+    <string name="benvenuto">Benvenuto</string>
+    <string name="scegli_categoria">Scegli una categoria</string>
+    <string name="title_squeez">sQueez</string>
+    <string name="mettiti_alla_prova">Mettiti alla prova!</string>
+    <string name="inserisci_nome">Inserisci il tuo nome</string>
+    <string name="nome">Nome</string>
+    <string name="avanti">avanti</string>
+
+    <!--  questions -->
+
+    <string name="question_art_1">In che anno è nato Caravaggio?</string>
+    <string name="question_art_2">Chi è l\'autore dell\'opera "Metamorfosi di Narciso"?</string>
+    <string name="question_art_3">Chi ha scolpito "amore e psiche" conservata al Louvre?</string>
+    <string name="question_art_4">Dove si trova il dipinto "La Libertà che guida il popolo" di Delacroix?</string>
+    <string name="question_art_5">Dove si trova "Apollo e Dafne" di Bernini?</string>
+    <string name="question_art_6">Ceci n\'est pase une pipe" è un'opera di?</string>
+    <string name="question_art_7">Quale famoso quadro è stato trafugato a Palermo nel 1969?</string>
+    <string name="question_art_8">A quanti anni Michelangelo ha scolpito la Pietà di S.Pietro?</string>
+    <string name="question_art_9">Chi è stato il fondatore del movimento artistico del Futurismo?</string>
+    <string name="question_art_10">Quale pittore è considerato il padre del Rinascimento italiano?</string>
+</resources>

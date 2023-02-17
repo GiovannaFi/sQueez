@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="title_size">28sp</dimen>
+    <dimen name="title_marginBottom">12dp</dimen>
+    <dimen name="cardCornerRadius">8dp</dimen>
+    <dimen name="cardElevation">8dp</dimen>
+    <dimen name="padding">16dp</dimen>
+    <dimen name="second_title">24sp</dimen>
+    <dimen name="margin_top_descriptions">14dp</dimen>
+    <dimen name="small_textSize">16sp</dimen>
+    <dimen name="small_marginTop">2dp</dimen>
+    <dimen name="next_button_size">18sp</dimen>
+    <dimen name="card_elev_recycler">0dp</dimen>
+    <dimen name="card_contentPadding">4dp</dimen>
+    <dimen name="card_text_title_size">30sp</dimen>
+    <dimen name="margin_8">8dp</dimen>
+    <dimen name="prog_bar_minHeight">50dp</dimen>
+    <dimen name="padding_recycler">24dp</dimen>
+    <dimen name="margin_top_title_first">50dp</dimen>
+    <dimen name="_4_marginTop">4dp</dimen>
+    <dimen name="marginBottom_fist_frag_text">16dp</dimen>
+
+</resources>

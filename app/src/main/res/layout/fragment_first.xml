@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:gravity="center"
+    android:orientation="vertical">
+
+    <TextView
+        android:id="@+id/hi"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="@dimen/margin_top_title_first"
+        android:layout_marginBottom="0dp"
+        android:layout_weight="0"
+        android:gravity="center"
+        android:text="@string/benvenuto"
+        android:textColor="@color/white"
+        android:textSize="@dimen/second_title"
+        android:textStyle="bold"
+
+        />
+
+    <TextView
+        android:id="@+id/user_name"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="@dimen/_4_marginTop"
+        android:layout_marginBottom="0dp"
+        android:layout_weight="0"
+        android:gravity="center"
+        android:textColor="@color/white"
+        android:textSize="@dimen/second_title"
+        android:textStyle="bold"
+        tools:text="Nome"
+
+        />
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="@dimen/_4_marginTop"
+        android:layout_marginBottom="@dimen/marginBottom_fist_frag_text"
+        android:layout_weight="0"
+        android:gravity="center"
+        android:text="@string/scegli_categoria"
+        android:textColor="@color/white"
+        android:textSize="@dimen/second_title"
+        android:textStyle="bold"
+
+        />
+
+    <androidx.recyclerview.widget.RecyclerView
+        android:id="@+id/recyclerView"
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="4"
+        android:padding="@dimen/padding_recycler"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
+
+</LinearLayout>
